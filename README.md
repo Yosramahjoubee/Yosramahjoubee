@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yosra Mahjoub</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 <h2 align="center">I'm a dynamic, open-minded, and self-motivated individual with a passion for data analysis and development. My most recent experience has contributed significantly to my learning, and I thrive on challenging myself with new projects. I am open to opportunities and eager to take on fresh challenges.</h2>
-
+< img align="right" alt ="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" >
 <p align="left"> <a href="https://twitter.com/mahjoubeyo48225" target="blank"><img src="https://img.shields.io/twitter/follow/mahjoubeyo48225?logo=twitter&style=for-the-badge" alt="mahjoubeyo48225" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
